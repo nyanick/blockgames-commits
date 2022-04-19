@@ -1,7 +1,7 @@
-### blockgames-commits
+# blockgames-commits
 
 ## Project 1:
-# Merge Commits : https://github.com/Team-Legacy/Nestcoin/commits?author=yann-unique
+### Merge Commits : https://github.com/Team-Legacy/Nestcoin/commits?author=yann-unique
 1:
   link: https://github.com/Team-Legacy/Nestcoin/commit/7a730ef2dc8c7e5e92a8265e6893c2c514e0606b
   Description: Incuded access control at the minting function of the token contract, to authorized a list of admin to be able to mint token for airdrops. Updating the                  test file, adding new functionalities to have successful test cases.
@@ -25,7 +25,7 @@
   link: https://github.com/Team-Legacy/task1/commit/b731bd571a365fbfab8e5fc21c05350ae640e0d1
   Description: Successfully consumed the ABI with the react js App.
   
-# UnMerge commit
+## UnMerge commit
 
 1:
   link: https://github.com/Team-Legacy/task1/commits/yann
@@ -39,7 +39,7 @@
   link: https://github.com/Team-Legacy/task1/commits/patch
   Description: Patching module to fixing issues at the level of the frontEnd with the ABI consumption and getting the excel addresses for airdrop.
   
-## Project 2:
-# Merged Commits:
+# Project 2:
+## Merged Commits:
 
 1: 
