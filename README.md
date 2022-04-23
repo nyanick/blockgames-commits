@@ -25,7 +25,7 @@
   link: https://github.com/Team-Legacy/task1/commit/b731bd571a365fbfab8e5fc21c05350ae640e0d1
   Description: Successfully consumed the ABI with the react js App.
   
-## UnMerge commit
+### UnMerge commit
 
 1:
   link: https://github.com/Team-Legacy/task1/commits/yann
@@ -39,7 +39,20 @@
   link: https://github.com/Team-Legacy/task1/commits/patch
   Description: Patching module to fixing issues at the level of the frontEnd with the ABI consumption and getting the excel addresses for airdrop.
   
-# Project 2:
-## Merged Commits:
+## Project 2:
+### Merged Commits:
 
-1: 
+1:
+  link: https://github.com/Team-Legacy/task2/commits/frontEnd-yann
+  Description: This Branch contains the presentation version, production branch at the frontEnd level ("frontEnd-yann") learning, debugging, testing the React js UI, and ABI and Smart contract consumption.
+
+2:
+  link: https://github.com/Team-Legacy/task2/commits/yann
+    Description: Smart contract branch for task 2, learning, testing, and debuging my smart contract, working on extra features.
+
+## Project 3:
+### Merge Commits:
+
+1:
+  link:https://github.com/zuri-team-o/E-voting/commits/main && https://github.com/zuri-team-o/E-voting/commits/SmartContract
+  Description: Creation of Smart contract,consumed ABI, Updated contract ABI to support resetting an election, MOdified the access control at the interface level, update the contract
